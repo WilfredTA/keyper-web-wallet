@@ -1,0 +1,3 @@
+[submodule "packages/wallet/deps/keyper"]
+	path = packages/wallet/deps/keyper
+	url = https://github.com/ququzone/keyper
