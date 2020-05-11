@@ -6,7 +6,7 @@
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node",
     "noImplicitThis": true,
-    "noImplicitAny":true,
+    "noImplicitAny": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "strict": true,
