@@ -81,7 +81,7 @@ export class WebWallet {
     this.container = new Container([{
       algorithm: SignatureAlgorithm.secp256k1,
       provider: {
-        sign: async function(context, message) {
+        sign: async function(context: any, message: any) {
           const padToEven = (value: string) => {
             var a = value;
             if (typeof a !== 'string') {
