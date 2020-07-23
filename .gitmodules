@@ -5,3 +5,6 @@
 [submodule "packages/wallet_ui/deps/keyper-bridge"]
 	path = packages/wallet_ui/deps/keyper-bridge
 	url = https://www.github/com/wilfredTA/keyper-bridge
+[submodule "packages/wallet_starter_app/wallet_ui/deps/keyper-bridge"]
+	path = packages/wallet_starter_app/wallet_ui/deps/keyper-bridge
+	url = https://www.github.com/wilfredTA/keyper-bridge
