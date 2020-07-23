@@ -24,6 +24,7 @@
     "lerna": "^3.20.2"
   },
   "dependencies": {
+    "@keyper/container": "^0.1.0",
     "idb": "^5.0.2",
     "threads": "^1.4.1",
     "tiny-worker": "^2.3.0"

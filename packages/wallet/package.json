@@ -18,8 +18,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@keyper/container": "file:deps/keyper/packages/container",
-    "@keyper/specs": "0.0.7",
+    "@keyper/container": "file:./deps/keyper/packages/container",
+    "@keyper/specs": "^0.1.0",
     "axios": "^0.19.2",
     "ckb-js-toolkit": "^0.9.1"
   },

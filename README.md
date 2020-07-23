@@ -15,3 +15,13 @@ This wallet is not production ready at this time but is used for demonstrations.
 `cd packages/wallet && npm i`
 
 `npm run build`
+
+
+## Todo
+
+1. Bump keyper container to 0.1.0
+2. Add second package for wallet UI
+3. Add NFT lock to wallet/locks
+4. Add mnemonic seed
+5. Add address-based auth
+6. 
