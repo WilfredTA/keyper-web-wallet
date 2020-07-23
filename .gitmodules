@@ -1,6 +1,7 @@
 [submodule "packages/wallet/deps/keyper"]
 	path = packages/wallet/deps/keyper
 	url = https://github.com/ququzone/keyper
+	ignore = dirty
 [submodule "packages/wallet_ui/deps/keyper-bridge"]
 	path = packages/wallet_ui/deps/keyper-bridge
 	url = https://www.github/com/wilfredTA/keyper-bridge
